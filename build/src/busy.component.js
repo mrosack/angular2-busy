@@ -13,7 +13,7 @@ var promise_tracker_service_1 = require('./promise-tracker.service');
 var inactiveStyle = core_1.style({
     opacity: 0
 });
-var timing = '.3s ease';
+var timing = '0s ease';
 ;
 var BusyComponent = (function () {
     function BusyComponent(tracker) {
